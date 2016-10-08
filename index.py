@@ -5,10 +5,10 @@ from subprocess import Popen
 
 # startup react-markup-server
 Popen('npm start >& react-markup-service.log', shell=True,
-                                                  stdin=None,
-                                                  stdout=None,
-                                                  stderr=None,
-                                                  close_fds=True)
+                                               stdin=None,
+                                               stdout=None,
+                                               stderr=None,
+                                               close_fds=True)
 
 markup_api_url = 'http://localhost:8181/render'
 port = os.getenv('PORT', 8080)
