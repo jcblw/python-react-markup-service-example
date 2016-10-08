@@ -1,0 +1,16 @@
+{
+  "name": "python-react-markup-service-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-markup-service --hooks=js/hooks",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jacob Lowe",
+  "license": "ISC",
+  "dependencies": {
+    "react-markup-service": "^1.0.0"
+  }
+}
