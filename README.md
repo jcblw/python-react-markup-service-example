@@ -1,5 +1,7 @@
 # Python example for react-markup-service
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/python-react-markup-service-example.svg)](https://greenkeeper.io/)
+
 This is a simple example on how `react-markup-service` can be used within your application to render react components server side.
 
 # Setup
